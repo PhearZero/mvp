@@ -1,0 +1,12 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "Just open the `index.html` in your browser! No other steps.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "deno run --allow-net --allow-read server.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
